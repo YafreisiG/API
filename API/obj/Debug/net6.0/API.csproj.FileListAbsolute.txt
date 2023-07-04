@@ -1,0 +1,15 @@
+C:\Users\Magdalena\source\repos\API\API\bin\Debug\net6.0\API.exe
+C:\Users\Magdalena\source\repos\API\API\bin\Debug\net6.0\API.deps.json
+C:\Users\Magdalena\source\repos\API\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\Magdalena\source\repos\API\API\bin\Debug\net6.0\API.dll
+C:\Users\Magdalena\source\repos\API\API\bin\Debug\net6.0\API.pdb
+C:\Users\Magdalena\source\repos\API\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\Magdalena\source\repos\API\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magdalena\source\repos\API\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\Magdalena\source\repos\API\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\Magdalena\source\repos\API\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Magdalena\source\repos\API\API\obj\Debug\net6.0\API.dll
+C:\Users\Magdalena\source\repos\API\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\Magdalena\source\repos\API\API\obj\Debug\net6.0\API.pdb
+C:\Users\Magdalena\source\repos\API\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\Magdalena\source\repos\API\API\obj\Debug\net6.0\ref\API.dll
